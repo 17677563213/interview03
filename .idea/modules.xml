@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/idea-interview-day08/idea-interview-day08.iml" filepath="$PROJECT_DIR$/idea-interview-day08/idea-interview-day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-interview-day09/idea-interview-day09.iml" filepath="$PROJECT_DIR$/idea-interview-day09/idea-interview-day09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-interview-day1/idea-interview-day1.iml" filepath="$PROJECT_DIR$/idea-interview-day1/idea-interview-day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-interview-day10/idea-interview-day10.iml" filepath="$PROJECT_DIR$/idea-interview-day10/idea-interview-day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-interview-day11/idea-interview-day11.iml" filepath="$PROJECT_DIR$/idea-interview-day11/idea-interview-day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-interview-day12/idea-interview-day12.iml" filepath="$PROJECT_DIR$/idea-interview-day12/idea-interview-day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-interview-day14/idea-interview-day14.iml" filepath="$PROJECT_DIR$/idea-interview-day14/idea-interview-day14.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/interview03.iml" filepath="$PROJECT_DIR$/.idea/interview03.iml" />
     </modules>
   </component>

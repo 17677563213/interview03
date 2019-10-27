@@ -7,10 +7,22 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="idea-interview-day08" />
+        <module name="idea-interview-day09" />
+        <module name="idea-interview-day1" />
+        <module name="idea-interview-day10" />
+        <module name="idea-interview-day11" />
+        <module name="idea-interview-day12" />
+        <module name="idea-interview-day14" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="idea-interview-day08" target="1.8" />
+      <module name="idea-interview-day09" target="1.8" />
+      <module name="idea-interview-day1" target="1.8" />
+      <module name="idea-interview-day10" target="1.8" />
+      <module name="idea-interview-day11" target="1.8" />
+      <module name="idea-interview-day12" target="1.8" />
+      <module name="idea-interview-day14" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

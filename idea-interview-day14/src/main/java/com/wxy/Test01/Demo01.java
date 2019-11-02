@@ -11,9 +11,13 @@ public class Demo01 {
 
         System.out.println(atomicInteger.compareAndSet(4, 100)+"  获取到的数据 : "+atomicInteger.get());
 //        如果一致的话,就会出现
-
+//        就是对里面的不知道的, spring
 
     }
+
+
+
+
 
 
 

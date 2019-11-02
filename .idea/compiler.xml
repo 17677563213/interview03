@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
         <module name="idea-interview-day08" />
         <module name="idea-interview-day09" />
         <module name="idea-interview-day1" />
@@ -13,9 +14,13 @@
         <module name="idea-interview-day11" />
         <module name="idea-interview-day12" />
         <module name="idea-interview-day14" />
+        <module name="idea-interview-day15" />
+        <module name="idea-interview-day16" />
+        <module name="idea-interview-day17" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
       <module name="idea-interview-day08" target="1.8" />
       <module name="idea-interview-day09" target="1.8" />
       <module name="idea-interview-day1" target="1.8" />
@@ -23,6 +28,10 @@
       <module name="idea-interview-day11" target="1.8" />
       <module name="idea-interview-day12" target="1.8" />
       <module name="idea-interview-day14" target="1.8" />
+      <module name="idea-interview-day15" target="1.8" />
+      <module name="idea-interview-day16" target="1.8" />
+      <module name="idea-interview-day17" target="1.8" />
+      <module name="spring-soure" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

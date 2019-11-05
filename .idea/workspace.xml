@@ -2,36 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6eb6b06-ff43-4693-b4e5-865ab7b15b0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/idea-interview-day18/idea-interview-day18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day18/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day18/src/main/java/com/wxy/demo01/ABADemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day18/src/main/java/com/wxy/demo01/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day18/src/main/java/com/wxy/entity/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day19/idea-interview-day19.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day19/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day19/src/main/java/com/wxy/CallableDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day19/src/main/java/com/wxy/demo01/CallableDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day20/idea-interview-day20.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day20/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day20/src/main/java/com/wxy/demo01/DeadLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day20/src/main/java/com/wxy/demo01/OOM01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day20/src/main/java/com/wxy/demo01/Thread01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day20/src/main/java/com/wxy/demo01/Thread02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day20/src/main/java/com/wxy/demo01/Thread03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day20/src/main/java/com/wxy/demo01/ThreadPool01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day20/src/main/java/com/wxy/demo01/ThreadPoolExecutor01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day21/idea-interview-day21.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day21/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/ClassDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/entity/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/CommosDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/FrameworkDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea-interview-day21/src/main/resources/pro.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea-interview-day21/idea-interview-day21.iml" beforeDir="false" afterPath="$PROJECT_DIR$/idea-interview-day21/idea-interview-day21.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea-interview-day21/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea-interview-day21/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/idea-interview-day08/target/" />
     <ignored path="$PROJECT_DIR$/idea-interview-day09/target/" />
@@ -71,39 +49,45 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="49" />
-          <entry key="xml" value="14" />
+          <entry key="java" value="56" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="49" />
-          <entry key="XML" value="14" />
+          <entry key="JAVA" value="56" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="22296" />
+          <entry key="java" value="22665" />
+          <entry key="properties" value="53" />
           <entry key="txt" value="7" />
+          <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="22296" />
+          <entry key="JAVA" value="22665" />
           <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Properties" value="53" />
+          <entry key="XML" value="7" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect_method.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            <state relative-caret-position="475">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,11 +95,29 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/idea-interview-day21/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/entity/People.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="67" column="41" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
+            <state relative-caret-position="70">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/CommosDemo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -140,11 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/idea-interview-day09/src/main/java/com/wxy/demo01/SynchronouQueue.java" />
-        <option value="$PROJECT_DIR$/idea-interview-day09/src/main/java/com/wxy/demo01/SynchronouQueueTest01.java" />
-        <option value="$PROJECT_DIR$/idea-interview-day09/src/main/java/com/wxy/demo01/ProdConsumer_Tradition.java" />
-        <option value="$PROJECT_DIR$/idea-interview-day09/src/main/java/com/wxy/demo01/SyncAndReetrantLock.java" />
-        <option value="$PROJECT_DIR$/idea-interview-day10/pom.xml" />
         <option value="$PROJECT_DIR$/idea-interview-day10/src/main/java/com/wxy/demo01/GC01.java" />
         <option value="$PROJECT_DIR$/idea-interview-day10/src/main/java/com/wxy/GCDemo01.java" />
         <option value="$PROJECT_DIR$/idea-interview-day11/pom.xml" />
@@ -184,13 +181,18 @@
         <option value="$PROJECT_DIR$/idea-interview-day20/src/main/java/com/wxy/demo01/Thread04.java" />
         <option value="$PROJECT_DIR$/idea-interview-day20/src/main/java/com/wxy/demo01/DeadLockDemo.java" />
         <option value="$PROJECT_DIR$/idea-interview-day20/src/main/java/com/wxy/demo01/OOM01.java" />
-        <option value="$PROJECT_DIR$/idea-interview-day21/pom.xml" />
         <option value="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/ClassDemo01.java" />
         <option value="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect01.java" />
         <option value="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect02.java" />
         <option value="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect03.java" />
         <option value="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/entity/People.java" />
         <option value="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect_method.java" />
+        <option value="$PROJECT_DIR$/idea-interview-day21/src/pro.properties" />
+        <option value="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/FrameworkDemo01.java" />
+        <option value="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/entity/Student.java" />
+        <option value="$PROJECT_DIR$/idea-interview-day21/src/main/resources/pro.properties" />
+        <option value="$PROJECT_DIR$/idea-interview-day21/pom.xml" />
+        <option value="$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/CommosDemo01.java" />
       </list>
     </option>
   </component>
@@ -292,6 +294,14 @@
               <item name="wxy" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="interview03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview03" type="462c0819:PsiDirectoryNode" />
+              <item name="idea-interview-day21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -308,7 +318,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/spring-cloud-workspace/spring-interview-ready/interview03/idea-interview-day1/pom.xml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572941872361" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572947630338" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/Java/jdk1.8.0_131" />
@@ -318,6 +328,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\spring-cloud-workspace\spring-interview-ready\interview03\idea-interview-day21\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -331,9 +346,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Reflect_method">
-    <configuration name="ClassDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wxy.demo01.ClassDemo01" />
+  <component name="RunManager" selected="Application.CommosDemo01">
+    <configuration name="CommosDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxy.demo01.CommosDemo01" />
       <module name="idea-interview-day21" />
       <extension name="coverage">
         <pattern>
@@ -345,8 +360,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reflect01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wxy.demo01.Reflect01" />
+    <configuration name="FrameworkDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxy.demo01.FrameworkDemo01" />
       <module name="idea-interview-day21" />
       <extension name="coverage">
         <pattern>
@@ -414,19 +429,19 @@
     <list>
       <item itemvalue="Spring Boot.SpringSoureApplication" />
       <item itemvalue="Spring Boot.IdeaInterviewDay16Application" />
-      <item itemvalue="Application.ClassDemo01" />
-      <item itemvalue="Application.Reflect01" />
       <item itemvalue="Application.Reflect02" />
       <item itemvalue="Application.Reflect03" />
       <item itemvalue="Application.Reflect_method" />
+      <item itemvalue="Application.FrameworkDemo01" />
+      <item itemvalue="Application.CommosDemo01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommosDemo01" />
+        <item itemvalue="Application.FrameworkDemo01" />
         <item itemvalue="Application.Reflect_method" />
         <item itemvalue="Application.Reflect03" />
         <item itemvalue="Application.Reflect02" />
-        <item itemvalue="Application.Reflect01" />
-        <item itemvalue="Application.ClassDemo01" />
       </list>
     </recent_temporary>
   </component>
@@ -462,7 +477,7 @@
       <workItem from="1572855328182" duration="4028000" />
       <workItem from="1572867426626" duration="1517000" />
       <workItem from="1572876325547" duration="599000" />
-      <workItem from="1572923658257" duration="6310000" />
+      <workItem from="1572923658257" duration="9762000" />
     </task>
     <task id="LOCAL-00001" summary="面试准备">
       <created>1571564191366</created>
@@ -520,11 +535,18 @@
       <option name="project" value="LOCAL" />
       <updated>1572696449703</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="面试准备2">
+      <created>1572941936546</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1572941936546</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110344000" />
+    <option name="totallyTimeSpent" value="113796000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -538,7 +560,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3414305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37921727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -618,33 +640,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/idea-interview-day10/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idea-interview-day09/src/main/java/com/wxy/demo01/SyncAndReetrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="133" column="30" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idea-interview-day12/src/main/java/com/wxydemo01/Demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idea-interview-day12/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idea-interview-day11/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/idea-interview-day10/src/main/java/com/wxy/GCDemo01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="519">
@@ -906,23 +901,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/idea-interview-day21/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -949,20 +931,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/entity/People.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="67" column="41" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect_method.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        <state relative-caret-position="385">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/pro.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/entity/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/FrameworkDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/resources/pro.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/Reflect01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/entity/People.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idea-interview-day21/src/main/java/com/wxy/demo01/CommosDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idea-interview-day21/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>

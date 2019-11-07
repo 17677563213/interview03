@@ -21,6 +21,8 @@
         <module name="idea-interview-day19" />
         <module name="idea-interview-day20" />
         <module name="idea-interview-day21" />
+        <module name="idea-interview-day22" />
+        <module name="idea-interview-day24" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -39,6 +41,8 @@
       <module name="idea-interview-day19" target="1.8" />
       <module name="idea-interview-day20" target="1.8" />
       <module name="idea-interview-day21" target="1.8" />
+      <module name="idea-interview-day22" target="1.8" />
+      <module name="idea-interview-day24" target="1.8" />
       <module name="spring-soure" target="1.8" />
     </bytecodeTargetLevel>
   </component>

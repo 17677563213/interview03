@@ -36,6 +36,11 @@ public class ClassDemo01 {
             System.out.println(o);
         }
 
+//        什么叫做装饰者模式:
+//        就是对之前的对象的方法进行了增强:
+//        这里面的话就是
+//
+
 
 
 
